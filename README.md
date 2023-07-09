@@ -1,8 +1,5 @@
 # RockPaperScissors
  RockPaperScissorsGame
 
- 
-
-
-https://github.com/ilaydadora/RockPaperScissors/assets/100840400/2862f39a-26b5-496c-ad33-540428740f83
+https://github.com/ilaydadora/RockPaperScissors/assets/100840400/06e3546d-2b0b-4111-b837-d0b42b8da437
 
